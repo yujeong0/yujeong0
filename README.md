@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90" align="center" width="1500px"/>
 
-<h3>📚My Tech Stack</h3>
+<h3>📚Go to my BLOG</h3><hr>
+<p>https://focus-on-my.tistory.com/</p>
+<br>
+
+<h3>🛠My Tech Stack</h3><hr>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
@@ -15,12 +19,12 @@
 </p>
 <br>
 
-<h3>📜Languages</h3>
+<h3>📜Languages</h3><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact&hide=python" />
 <img src="https://github-readme-stats.vercel.app/api?username=yujeong0&theme=radical" />
 
 <br>
-<h3>💻BOJ</h3>
+<h3>💻BOJ</h3><hr>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwjd1120" />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong0&count_bg=%2333DBD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>     
 
