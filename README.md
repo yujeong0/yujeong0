@@ -2,17 +2,15 @@
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/#007396-Java-informational"></a>&nbsp 
-https://img.shields.io/badge/<LABEL>-<SpringBoot>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<Swagger>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<Mysql>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<AWS>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<Docker>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<Jenkins>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<JavaScript>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<Vue.js>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<React>-<COLOR>
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong0&count_bg=%2336DFC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
