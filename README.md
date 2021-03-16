@@ -1,4 +1,4 @@
-<center>![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90)</center>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90)
 <h3 align="center">📚My Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
