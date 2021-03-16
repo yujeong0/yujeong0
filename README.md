@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90" align="center" width="1500px"/>
 
-<p><h3>📚Go to my BLOG</h3> : https://focus-on-my.tistory.com/</p>
+<h3>📚Go to my BLOG</h3> 
+: https://focus-on-my.tistory.com/
 <br>
 
 <h3>🛠My Tech Stack</h3><hr>
