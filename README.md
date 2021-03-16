@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90" align="center" width="1500px"/>
-<h3 align="center">📚My Tech Stack</h3>
-<p align="center">
+<h3>📚My Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> 
@@ -13,13 +13,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
-<h3 align="center">📜Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact&hide=python" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujeong0&theme=radical" />
-</p>
+<h3>📜Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact&hide=python" />
+<img src="https://github-readme-stats.vercel.app/api?username=yujeong0&theme=radical" />
+
 <h3 align="center">💻BOJ</h3>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwjd1120" />
