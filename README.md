@@ -12,17 +12,21 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
+
+<h3 align="center">📜Languages</h3>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong0&count_bg=%2333DBD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>     
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact&hide=python" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yujeong0&theme=radical" />
 </p>
+<h3 align="center">💻BOJ</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwjd1120" />
 </p>
+
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbwjd1120" />
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong0&count_bg=%2333DBD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>     
 </p>
 <!--
 **yujeong0/yujeong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
