@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong%20Kang&fontSize=90" align="center" width="1500px"/>
+<div style="margin-left: 20px;">
 <h3>📚My Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
+</div>
 
 <h3>📜Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0&layout=compact&hide=python" />
