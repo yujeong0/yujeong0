@@ -2,9 +2,9 @@
 
 <h3>📚Go to my BLOG</h3> 
 : https://focus-on-my.tistory.com/
-<br><br>
+<br><br><br>
 
-<h3>📚My Projects</h3><hr>
+<h3>💡My Projects</h3><hr>
 <ul>
   <li><a href="https://youtu.be/snr8gCf6fbk">See 장</a>
   <li><a href="https://youtu.be/HHomWolXTE0">HappyHouse</a>
