@@ -4,6 +4,14 @@
 : https://focus-on-my.tistory.com/
 <br><br>
 
+<h3>📚My Projects</h3><hr>
+<ul>
+  <li><a href="https://youtu.be/snr8gCf6fbk">See 장</a>
+  <li><a href="https://youtu.be/HHomWolXTE0">HappyHouse</a>
+</ul>
+<br><br>
+
+
 <h3>🛠My Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
