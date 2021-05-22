@@ -9,6 +9,7 @@
   <li><a href="https://youtu.be/snr8gCf6fbk">See 장</a>
   <li><a href="https://youtu.be/HHomWolXTE0">HappyHouse</a>
   <li><a href="https://youtu.be/PZk1F0X9-Ao">NETCHA</a>
+  <li><a href=" https://youtu.be/NTTimyaRMXU">SCAN & GO</a>
 </ul>
 <br><br>
 
