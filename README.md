@@ -4,7 +4,7 @@
 : https://focus-on-my.tistory.com/
 <br><br><br>
 
-<h3>�🎞Watch my videos about my Projects!!</h3>
+<h3>🎞My Projects</h3>
 <ul>
   <li><a href="https://youtu.be/snr8gCf6fbk">See 장</a>
   <li><a href="https://youtu.be/HHomWolXTE0">HappyHouse</a>
